@@ -8,7 +8,6 @@ import java.util.Set;
  * A Chess piece that can be moved around on a board.
  */
 public abstract class Piece {
-
     private final boolean isWhite;
     private Tile position;
 
